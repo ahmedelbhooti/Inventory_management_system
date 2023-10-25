@@ -1,0 +1,23 @@
+D:\courses\iti\.net\EF\full system\inventory Management System\inventory Management System\bin\Debug\inventory Management System.exe.config
+D:\courses\iti\.net\EF\full system\inventory Management System\inventory Management System\bin\Debug\inventory Management System.exe
+D:\courses\iti\.net\EF\full system\inventory Management System\inventory Management System\bin\Debug\inventory Management System.pdb
+D:\courses\iti\.net\EF\full system\inventory Management System\inventory Management System\obj\Debug\inventory Management System.csproj.AssemblyReference.cache
+D:\courses\iti\.net\EF\full system\inventory Management System\inventory Management System\obj\Debug\inventory Management System.csproj.SuggestedBindingRedirects.cache
+D:\courses\iti\.net\EF\full system\inventory Management System\inventory Management System\obj\Debug\inventory_Management_System.Properties.Resources.resources
+D:\courses\iti\.net\EF\full system\inventory Management System\inventory Management System\obj\Debug\inventory Management System.csproj.GenerateResource.cache
+D:\courses\iti\.net\EF\full system\inventory Management System\inventory Management System\obj\Debug\inventory Management System.csproj.CoreCompileInputs.cache
+D:\courses\iti\.net\EF\full system\inventory Management System\inventory Management System\obj\Debug\inventory Management System.exe
+D:\courses\iti\.net\EF\full system\inventory Management System\inventory Management System\obj\Debug\inventory Management System.pdb
+D:\courses\iti\.net\EF\full system\inventory Management System\inventory Management System\obj\Debug\inventory_Management_System.login.resources
+D:\courses\iti\.net\EF\full system\inventory Management System\inventory Management System\obj\Debug\inventory_Management_System.ManageUsers.resources
+D:\courses\iti\.net\EF\full system\inventory Management System\inventory Management System\bin\Debug\EntityFramework.dll
+D:\courses\iti\.net\EF\full system\inventory Management System\inventory Management System\bin\Debug\EntityFramework.SqlServer.dll
+D:\courses\iti\.net\EF\full system\inventory Management System\inventory Management System\bin\Debug\EntityFramework.xml
+D:\courses\iti\.net\EF\full system\inventory Management System\inventory Management System\bin\Debug\EntityFramework.SqlServer.xml
+D:\courses\iti\.net\EF\full system\inventory Management System\inventory Management System\obj\Debug\inventory Management System.csproj.CopyComplete
+D:\courses\iti\.net\EF\full system\inventory Management System\inventory Management System\obj\Debug\inventory_Management_System.Products.resources
+D:\courses\iti\.net\EF\full system\inventory Management System\inventory Management System\obj\Debug\inventory_Management_System.Categaries.resources
+D:\courses\iti\.net\EF\full system\inventory Management System\inventory Management System\obj\Debug\inventory_Management_System.Form1.resources
+D:\courses\iti\.net\EF\full system\inventory Management System\inventory Management System\obj\Debug\inventory_Management_System.OrdersDetials.resources
+D:\courses\iti\.net\EF\full system\inventory Management System\inventory Management System\obj\Debug\inventory_Management_System.Customers.resources
+D:\courses\iti\.net\EF\full system\inventory Management System\inventory Management System\obj\Debug\inventory_Management_System.Main.resources
